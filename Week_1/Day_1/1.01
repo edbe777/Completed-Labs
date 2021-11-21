@@ -1,0 +1,38 @@
+1.01 Intro to Data Analysis
+
+Unit 1
+Day 1
+
+Welcome to Ironhack
+
+1.01 Intro to Data Analysis
+LESSON
+Lesson Overview
+
+Data analysis is the art of making business decisions by discovering useful knowledge/information from raw data (aka data-driven decision making). 
+It involves various steps but a typical data analysis workflow includes the following steps: Identifying the business problem, collecting relevant data, 
+data cleaning/wrangling, processing the data, building models/conducting business intelligence, and reporting/presenting the results. 
+In this lesson we will talk about what is data analysis, what do data analysts do, and how is their role different than data engineers and data scientists. 
+We will also look at some of the many tools used in the industry to conduct analysis.
+
+
+Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+    Demonstrate a basic understanding of the fundamentals of Data Analysis
+    Explain what is data analysis and list the main process, the kind of problems we can solve with it, 
+    and the role of data engineers, data analysts, and data scientists
+    Identify different data sources/databases for storage, and the different tools and technologies being used today
+
+
+
+Additional Resources
+
+If you would like to study these concepts before the class or would benefit from some remedial studying, please utilize the resources below:
+
+    Data Scientist vs Data Engineer vs Data Analyst – What really differentiates them? https://data-flair.training/blogs/data-scientist-vs-data-engineer-vs-data-analyst/
+    Python data structures - list, dictionary, set, tuple https://hackr.io/blog/python-data-structures
+    Python Loops https://www.learnpython.org/en/Loops
+    Python Conditionals https://www.learnpython.org/en/Conditions
+
