@@ -1,0 +1,33 @@
+Lab | SQL Join (Part I)
+
+    In this lab, you will be using the Sakila database of movie rentals.
+
+    Instructions:
+
+    How many films are there for each of the categories in the category table. Use appropriate join to write this query.
+    Display the total amount rung up by each staff member in August of 2005.
+    Which actor has appeared in the most films?
+    Most active customer (the customer that has rented the most number of films)
+    Display the first and last names, as well as the address, of each staff member.
+    List each film and the number of actors who are listed for that film.
+    Using the tables payment and customer and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name.
+    List number of films per category.
+
+
+
+
+Lab | SQL Join (Part II)
+
+    In this lab, you will be using the Sakila database of movie rentals.
+
+    Instructions:
+
+    Write a query to display for each store its store ID, city, and country.
+    Write a query to display how much business, in dollars, each store brought in.
+    Which film categories are longest?
+    Display the most frequently rented movies in descending order.
+    List the top five genres in gross revenue in descending order.
+    Is "Academy Dinosaur" available for rent from Store 1?
+    Get all pairs of actors that worked together.
+    Get all pairs of customers that have rented the same film more than 3 times.
+    For each film, list actor that has acted in more films.
