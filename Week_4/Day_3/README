@@ -1,0 +1,23 @@
+Lab | Random variable distributions
+
+Refer to the files_for_lab/we_fn_use_c_marketing_customer_value_analysis.csv dataset.
+
+    Instructions:
+
+    Get the numerical variables from our dataset.
+    Check using a distribution plot if the variables fit the theoretical normal or exponential distribution.
+    Check if any of the transformations (log-transform, etc.) we have seen up to this point changes the result.
+
+
+Lab | Comparing regression models
+
+For this lab, we will be using the same dataset we used in the previous labs.
+    
+    Instructions:
+    
+    In this final lab, we will model our data. Import sklearn train_test_split and separate the data.
+    Try a simple linear regression with all the data to see whether we are getting good results.
+    Great! Now define a function that takes a list of models and train (and tests) them so we can try a lot of them without repeating code.
+    Use the function to check LinearRegressor and KNeighborsRegressor.
+    You can check also the MLPRegressor for this task!
+    Check and discuss the results.
