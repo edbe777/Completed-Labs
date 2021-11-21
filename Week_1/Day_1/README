@@ -16,7 +16,8 @@ exercises  inputs  lorem  lorem-copy  modules  outputs  README.md
 
 Exercises:
 
-    Using the echo command print in console "Hello World". Here is some info about echo command [https://discuss.codecademy.com/t/what-are-practical-uses-of-the-echo-command/394788]
+    Using the echo command print in console "Hello World". 
+    Here is some info about echo command [https://discuss.codecademy.com/t/what-are-practical-uses-of-the-echo-command/394788]
     Create a new directory called new_dir.
     Delete/Remove the directory new_dir.
     Copy the file sed.txt from the lorem folder and paste it to the folder lorem-copy folder.
@@ -27,7 +28,10 @@ Exercises:
     Print the last 3 rows in sed.txt file from lorem-copy folder.
     Add Homo homini lupus. at the end of sed.txt file in the lorem-copy folder.
     Print the last 3 rows in sed.txt file from lorem-copy folder. You should see Homo homini lupus..
-    sed command is used to replace the text in a file. Use the sed command to replace all occurances of et with ET in the file at.txt file present in the folder lorem. You can use the following link to refer to sed commands [https://www.linode.com/docs/guides/manipulate-text-from-the-command-line-with-sed/] Check the contents of the sed.txt file using cat command.
+    sed command is used to replace the text in a file. 
+    Use the sed command to replace all occurances of et with ET in the file at.txt file present in the folder lorem. 
+    You can use the following link to refer to sed commands [https://www.linode.com/docs/guides/manipulate-text-from-the-command-line-with-sed/] 
+    Check the contents of the sed.txt file using cat command.
     Find who is the system user.
     Find the current path of the directory you are in.
     List all files with the extension .txt in lorem folder.
@@ -49,10 +53,14 @@ Bonus:
 Lab | Git
 Introduction
 
-Being able to use both, git and GitHub, is an important skill every software/data engineer must possess. This is even more important when it comes to its ability to handle code in collaborative projects. This lab will help you learn how use it. This lab will help you learn how to use it and understand its importance better.
+Being able to use both, git and GitHub, is an important skill every software/data engineer must possess. 
+This is even more important when it comes to its ability to handle code in collaborative projects. This lab will help you learn how use it. 
+This lab will help you learn how to use it and understand its importance better.
 Instructions
 
-    First of all, install git if you don't have it yet, and create a GitHub account. (In case you haven't made it to the bonus section in the Prework, refer to the lesson "Install Git and Create GitHub Account", that you will find there. Follow the guidelines given there. Additionally, you can use these resources: Install git, Version control with git)
+    First of all, install git if you don't have it yet, and create a GitHub account. 
+    (In case you haven't made it to the bonus section in the Prework, refer to the lesson "Install Git and Create GitHub Account", 
+    that you will find there. Follow the guidelines given there. Additionally, you can use these resources: Install git, Version control with git)
 
     Create a new repository in GitHub. Name it Iron+ your name. Example: if your name is Alvaro, you will name the repo IronAlvaro.
 
@@ -76,7 +84,8 @@ Pair yourself with a classmate. Send the link to your repository on GitHub to yo
     Fork the classmate's repository.
     Clone it so you have it locally and you can make changes.
     Create a new branch named classmate.
-    Create a new file with your name (ex. maya.txt) and finish the following sentence I enrolled Ironhack's Data Analytics bootcamp because.... When you are done, save the changes.
+    Create a new file with your name (ex. maya.txt) and finish the following sentence I enrolled Ironhack's Data Analytics bootcamp because.... 
+    When you are done, save the changes.
     Add the changes to git.
     Commit and push changes. Now, all the changes should be on your GitHub inside the forked repository.
     Create a pull request to make changes appear in the original repository.
