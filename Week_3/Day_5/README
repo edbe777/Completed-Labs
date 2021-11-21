@@ -11,4 +11,5 @@ We will be using the files_for_lab/customer_churn.csv dataset to build a churn p
     Build the logistic regression model.
     Evaluate the model.
     Even a simple model will give us more than 70% accuracy. Why?
-    Synthetic Minority Oversampling TEchnique (SMOTE) is an over sampling technique based on nearest neighbors that adds new points between existing points. Apply imblearn.over_sampling.SMOTE to the dataset. Build and evaluate the logistic regression model. Is it there any improvement?
+    Synthetic Minority Oversampling TEchnique (SMOTE) is an over sampling technique based on nearest neighbors that adds new points between existing points. 
+    Apply imblearn.over_sampling.SMOTE to the dataset. Build and evaluate the logistic regression model. Is it there any improvement?
