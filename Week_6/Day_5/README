@@ -13,3 +13,6 @@ I made a pipeline to:
                             -compare song to closest cluster
                             -pick a random song from the closest cluster
                             -return the recommended song back to the user
+Images:
+
+![plot](./Completed-Labs/Week_6/Day_5/prototype2.0.JPG)
