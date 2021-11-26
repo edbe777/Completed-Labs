@@ -15,8 +15,6 @@ I made a pipeline to:
                             -return the recommended song back to the user
 Images:
 
+<img src="images/prototype2.0.png" width="350" title="prototype 2">
+<img src="images/prototype2.1.png" width="350" title="prototype 2.1">
 
-<p align="center">
-  <img src="images/prototype2.0.png" width="350" title="prototype 2">
-  <img src="images/prototype2.1.png" width="350" title="prototype 2.1">
-</p>
