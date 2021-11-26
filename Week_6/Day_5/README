@@ -1,24 +1,15 @@
-Lab | Revisiting Machine Learning Case Study
+Lab | GNOD Project
 
-    In this lab, you will use learningSet.csv file which you already have cloned in today's activities.
+This project is a Spotify song recommender. 
 
-Instructions
-
-Complete the following steps on the categorical columns in the dataset:
-
-    Check for null values in all the columns
-
-    Exclude the following variables by looking at the definitions. Create a new empty list called drop_list. 
-    We will append this list and then drop all the columns in this list later:
-        OSOURCE - symbol definitions not provided, too many categories
-        ZIP CODE - we are including state already
-
-    Identify columns that over 85% missing values
-
-    Remove those columns from the dataframe
-
-    Reduce the number of categories in the column GENDER. The column should only have either "M" for males, "F" for females, and "other" for all the rest
-        Note that there are a few null values in the column. We will first replace those null values using the code below:
-
-    print(categorical['GENDER'].value_counts())
-    categorical['GENDER'] = categorical['GENDER'].fillna('F')
+I made a pipeline to:
+                         -ask the user to input a song and artist
+                         -check whether or not the song is in the Top 100 Songs.
+                         -if the song is in the Top 100 Songs list, then return a random song from that list.
+                                                    
+                         -if the song is not in the Top 100 Songs list:
+                            -collect the audio features from the Spotify API.
+                            -send the Spotify audio features of the submitted song to the clustering model
+                            -compare song to closest cluster
+                            -pick a random song from the closest cluster
+                            -return the recommended song back to the user
