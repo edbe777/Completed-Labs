@@ -15,13 +15,8 @@ I made a pipeline to:
                             -return the recommended song back to the user
 Images:
 
-![](images/prototype2.0.png)
-
-❮img src="images/prototype2.0.png" ❯
-❮img src="images/prototype2.1.png" ❯
-
 
 <p align="center">
-  <img src="images/prototype2.0.png" width="350" title="hover text">
-  <img src="images/prototype2.1.png" width="350" alt="accessibility text">
+  <img src="images/prototype2.0.png" width="350" title="prototype 2">
+  <img src="images/prototype2.1.png" width="350" title="prototype 2.1">
 </p>
