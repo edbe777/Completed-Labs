@@ -3,6 +3,7 @@ Lab | GNOD Project
 This project is a Spotify song recommender. 
 
 I made a pipeline to:
+
 ask the user to input a song and artist
 check whether or not the song is in the Top 100 Songs.
 if the song is in the Top 100 Songs list, then return a random song from that list.                         
