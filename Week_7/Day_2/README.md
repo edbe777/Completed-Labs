@@ -1,16 +1,17 @@
 Lab | Inferential statistics - T-test & P-value
+
 Instructions
 
-    One tailed t-test - In a packing plant, a machine packs cartons with jars. 
-    It is supposed that a new machine will pack faster on the average than the machine currently used. 
-    To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. 
-    The results, in seconds, are shown in the tables in the file files_for_lab/machine.txt. 
-    Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other?
+One tailed t-test - In a packing plant, a machine packs cartons with jars. 
+It is supposed that a new machine will pack faster on the average than the machine currently used. 
+To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. 
+The results, in seconds, are shown in the tables in the file files_for_lab/machine.txt. 
+Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other?
 
-    Matched Pairs Test - In this challenge we will compare dependent samples of data describing our Pokemon (file files_for_lab/pokemon.csv). 
-    Our goal is to see whether there is a significant difference between each Pokemon's defense and attack scores. 
-    Our hypothesis is that the defense and attack scores are equal. Compare the two columns to see if there is a statistically significant difference between them 
-    and comment your result.
+Matched Pairs Test - In this challenge we will compare dependent samples of data describing our Pokemon (file files_for_lab/pokemon.csv). 
+Our goal is to see whether there is a significant difference between each Pokemon's defense and attack scores. 
+Our hypothesis is that the defense and attack scores are equal. Compare the two columns to see if there is a statistically significant difference between them 
+and comment your result.
 
 OPTIONAL PART | Inferential statistics - ANOVA
 
