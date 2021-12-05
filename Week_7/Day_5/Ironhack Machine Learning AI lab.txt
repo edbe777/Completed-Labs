@@ -1,0 +1,79 @@
+13. https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it
+
+If it is so important as the title says (is it really a big step?) or you think it is more important than the title?
+It is important because most people do not grasp the power of training AI.
+
+Which part of ML or AI is used and how is it related to ML or AI.
+Supervised Machine Learning is used. Billions of users train the algorythm by clicking.     
+
+What did they do to take the data.
+Made everyone use the captcha to access most websites on the internet.
+    
+Which data did they use.
+The data from huamn users. 
+    
+How did they do to build the model. Which type of model is?
+They do not mention model names.
+    
+Do you know any other project that applies the same techniques? Could you use something for another use case?
+You can use it for maps, sound, videos. Many applications.    
+
+Do you find any ethical implications? Collateral effects?
+Data privacy and protection.
+    
+Do you know any news related?
+The developer who trained the google ML againtst itself. 
+
+9. https://www.sciencedaily.com/releases/2016/04/160425095546.htm
+
+If it is so important as the title says (is it really a big step?) or you think it is more important than the title 
+It really depends on the use case. It could be popular, but might also bore veteran gamers soon. 
+    
+Which part of ML or AI is used and how is it related to ML or AI.
+ML was used, with image recognition.
+    
+What did they do to take the data.
+They prepared microscope slides and uploaded them into a database.
+    
+Which data did they use.
+Malaria parasites blood samples.
+    
+How did they do to build the model. Which type of model is?
+Article is not clear on this. Digitalized blood samples. 
+    
+Do you know any other project that applies the same techniques? Could you use something for another use case?
+I do not know of any other similar project.
+    
+Do you find any ethical implications? Collateral effects?
+What if the players train the model in the wrong way? Who is held accountable?
+    
+Do you know any news related?
+Not really.
+
+15.https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4
+
+If it is so important as the title says (is it really a big step?) or you think it is more important than the title let's suggests.
+Technically gender identification is not useful in patient care. Although it is a new step for an AI program to find out novel information.
+    
+Which part of ML or AI is used and how is it related to ML or AI.
+picture recognition.
+    
+What did they do to take the data.
+They got the eys scans from doctors. 
+   
+Which data did they use.
+Eye scans. 
+   
+How did they do to build the model. Which type of model is?
+They selected eye maps. Then generated attention maps.  
+   
+Do you know any other project that applies the same techniques? Could you use something for another use case?
+Other recognition algorithms. Maybe can be used in other domains.  
+   
+Do you find any ethical implications? Collateral effects?
+Privacy.   
+  
+Do you know any news related?
+Not really. 
+
+
