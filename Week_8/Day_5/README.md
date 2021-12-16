@@ -84,3 +84,4 @@ Here are the columns which were used for the project:
 9. “Prescription Drug Spending in the U.S. Health Care System. An Actuarial Perspective,” American Academy of Actuaries, https://www.actuary.org/files/publications/Rx-briefing-slides-030918.pdf. , accessed December 16, 2021.
 10. Bradley Sawyer and Cynthia Cos, “How Does Health Spending in the U.S. Compare to Other Countries?” Peterson-Kaiser Health
 System Tracker (2018): https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#item-average-wealthy-countries-spend-half-much-per-person-health-u-s-spends , accessed December 16, 2021.
+11. Bureau of Economic Analysis, Nevada vs. United States Comparative Trends Report Population, 1958-2020, https://united-states.reaproject.org/analysis/comparative-trends-analysis/population/reports/320000/0/# , accessed on December 16,2021.
