@@ -22,7 +22,7 @@ The objective is to explore the CDI dataset and interpret the Heart Failure tren
 
 The data has been downloaded from https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
 
-### Shape of the Data
+## Shape of the Data
 
 The dataframe consisted of 956638 rows and 34 columns. 
 
