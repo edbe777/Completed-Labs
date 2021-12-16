@@ -1,6 +1,6 @@
 # Final Project - Chronic Disease Indicators (CDI)
 
-![picture](cdi-logo.png)
+![picture](images/cdi-logo.png)
 
 Overview
 
