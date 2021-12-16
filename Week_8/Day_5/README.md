@@ -17,9 +17,8 @@ CDI is an example of collaboration among CDC and state health departments in bui
 
 The objective is to explore the CDI dataset and interpret the Heart Failure trends via a Linear Regression Machine Learning model to find the states with the most Heart Failure Deaths.
 
-## Data
 
-### Data Source
+## Data Source
 
 The data has been downloaded from https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
 
