@@ -26,7 +26,7 @@ The data has been downloaded from https://catalog.data.gov/dataset/u-s-chronic-d
 
 The dataframe consisted of 956638 rows and 34 columns. 
 
-## Data Reference https://www.cdc.gov/mmwr/pdf/rr/rr6401.pdf
+# Data Reference https://www.cdc.gov/mmwr/pdf/rr/rr6401.pdf
 
 Here are the columns which were used for the project:
 
