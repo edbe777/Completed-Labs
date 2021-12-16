@@ -50,7 +50,7 @@ Here are the columns which were used for the project:
 | topicid  | identification of topic names |
 | questionid  | identification of questions |
 
-## Findings
+## Key Findings
 
 <img src="images/cardio disease over years.JPG" width="450">
 
@@ -70,7 +70,6 @@ Here are the columns which were used for the project:
 
 <img src="images/number of deaths by cause over year.JPG" width="650">
 
-<img src="number of deaths by causes.JPG" width="650">
 
 ## Python Libraries
 - [pandas](https://pandas.pydata.org/)
