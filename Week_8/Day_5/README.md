@@ -50,6 +50,14 @@ Here are the columns which were used for the project:
 | topicid  | identification of topic names |
 | questionid  | identification of questions |
 
+## Findings
+
+![picture](all chronic diseases heatmap zoom.JPG)
+
+
+
+
+
 ## Python Libraries
 - [pandas](https://pandas.pydata.org/)
 - [numpy](https://numpy.org/)
