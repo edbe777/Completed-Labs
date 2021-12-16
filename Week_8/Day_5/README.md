@@ -27,32 +27,31 @@ The data has been downloaded from https://catalog.data.gov/dataset/u-s-chronic-d
 
 The dataframe consisted of 956638 rows and 34 columns. 
 
+## Data Reference https://www.cdc.gov/mmwr/pdf/rr/rr6401.pdf
 
-Here are the columns that were used for the final model:
+Here are the columns which were used for the project:
 
 | Column name | Description |
 | ----------- | ----------- |
-| goal | amount to be fully funded |
-| state | successful (1) or failed (0) project |
-| category_slug | name of category and subcategory concatenated |
-| category_parent_name | name of category |
-| launched_at_weekday | weekday the project was launched |
-| deadline_weekday | weekday the project was finished |
-| project_duration | duration of project |
-| blurb_language_new | description language grouped |
-| country_new | countries grouped |
-| description_words | count of words |
-| description_sent | count of sentences |
-| descr_stopw | count of stopwords |
-| description_filtered_words | count of filtered words |
-| desc_filt_ratio | ratio of filtered words per description words |
-| desc_sw_ratio | ratio of stopwords per description words |
-| desc_wps_ratio | ratio or words per sentence |
-| description_neg | sentiment analysis from nltk library - negative words |
-| description_neu | sentiment analysis from nltk library - neutreal words |
-| description_pos | sentiment analysis from nltk library - positive words |
-| description_compound | sentiment analysis from nltk library - compound of words |
-| columns xxx to xxx | encoding of 250 most common words in successful projects |
+| YearStart/YearEnd | the years from which the data was collected |
+| LocationAbbr/LocationDesc | the location from which the data represents |
+| DataSource | name of the datasource used |
+| Topic | the topic of the health indicators |
+| Question | the subtopic of the health indicators|
+
+| datavalueunit | cases per 100000 and other metrics |
+| datavaluetype  | prevalence, number, and other metrics |
+| datavalue  | adjusted metrics |
+| datavaluealt  | alternative metrics |
+| datavaluefootnotesymbol  | footnotes for data metrics |
+
+| datavaluefootnote  | description of data metrics |
+| stratificationcategory1  | race and gender |
+| stratification1  | further description of race and gender |
+| geolocation  | geolocation points of data |
+| locationid  | geolocation codes |
+| topicid  | identification of topic names |
+| questionid  | identification of questions |
 
 ## Python Libraries
 - [pandas](https://pandas.pydata.org/)
@@ -62,3 +61,16 @@ Here are the columns that were used for the final model:
 - [statsmodels](https://www.statsmodels.org/stable/index.html)
 - [scipy](https://www.scipy.org/)
 - [sklearn](https://scikit-learn.org/stable/)
+
+## References used in the Presentation
+1. Centers for Disease Control and Prevention. Underlying Cause of Death, 1999–2018. CDC WONDER Online Database. Atlanta, GA: Centers for Disease Control and Prevention; 2018, accessed December  14, 2021.
+2. Virani SS, Alonso A, Aparicio HJ, Benjamin EJ, Bittencourt MS, Callaway CW, et al. Heart disease and stroke statistics—2021 update: a report from the American Heart Associationexternal icon. Circulation. 2021;143:e254–e743.
+3. Fryar CD, Chen T-C, Li X. Prevalence of uncontrolled risk factors for cardiovascular disease: United States, 1999–2010 pdf icon[PDF-494K]. NCHS data brief, no. 103. Hyattsville, MD: National Center for Health Statistics; 2012 , accessed December 15, 2021.
+4. Centers for Disease Control and Prevention, National Center for Health Statistics. About Multiple Cause of Death, 1999–2019. CDC WONDER Online Database website. Atlanta, GA: Centers for Disease Control and Prevention; 2019 , accessed December  15, 2021.
+5. Heron, M. Deaths: Leading causes for 2017pdf icon. National Vital Statistics Reports;68(6), accessed December 16, 2021.
+6. https://milkeninstitute.org/sites/default/files/reports-pdf/ChronicDiseases-HighRes-FINAL.pdf. , accessed December 16, 2021.
+7. Mark Mather, “Fact Sheet: Aging in the United States,” Population Reference Bureau, accessed June 27, 2018, http://www.prb.org/Publications/Media-Guides/2016/aging-unitedstates-fact-sheet.aspx. , accessed December 16, 2021.
+8. “PFCD in the States,” Partnership to Fight Chronic Disease, , https://www.fightchronicdisease.org/pfcd-in-the-states. , accessed December 16, 2021.
+9. “Prescription Drug Spending in the U.S. Health Care System. An Actuarial Perspective,” American Academy of Actuaries, https://www.actuary.org/files/publications/Rx-briefing-slides-030918.pdf. , accessed December 16, 2021.
+10. Bradley Sawyer and Cynthia Cos, “How Does Health Spending in the U.S. Compare to Other Countries?” Peterson-Kaiser Health
+System Tracker (2018): https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#item-average-wealthy-countries-spend-half-much-per-person-health-u-s-spends , accessed December 16, 2021.
