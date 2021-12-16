@@ -62,6 +62,8 @@ Here are the columns which were used for the project:
 
 <img src="images/number of deaths by cause over year.JPG" width="650">
 
+<img src="images/top deaths 2013 to 2017.JPG" width="650">
+
 
 ## Python Libraries
 - [pandas](https://pandas.pydata.org/)
