@@ -52,12 +52,6 @@ Here are the columns which were used for the project:
 
 ## Key Findings
 
-<img src="images/cardio disease over years.JPG" width="450">
-
-<img src="images/cardio disease normalized.JPG" width="450">
-
-<img src="images/cardio disease plot.JPG" width="450">
-
 <img src="images/heart disease states.JPG" width="850">
 
 <img src="images/heart top states.JPG" width="650">
