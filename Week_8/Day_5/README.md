@@ -52,15 +52,15 @@ Here are the columns which were used for the project:
 
 ## Findings
 
-<img src="images/cardio disease over years.jpg" width="450">
+<img src="images/cardio disease over years.JPG" width="450">
 
-<img src="images/cardio disease normalized.jpg" width="450">
+<img src="images/cardio disease normalized.JPG" width="450">
 
-<img src="images/cardio disease plot.jpg" width="450">
+<img src="images/cardio disease plot.JPG" width="450">
 
-<img src="images/heart disease states.jpg" width="650">
-<img src="images/heart top states.jpg" width="650">
-<img src="images/normalized cardio disease over years.jpg" width="450">
+<img src="images/heart disease states.JPG" width="650">
+<img src="images/heart top states.JPG" width="650">
+<img src="images/normalized cardio disease over years.JPG" width="450">
 
 
 ## Python Libraries
