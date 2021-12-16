@@ -38,13 +38,11 @@ Here are the columns which were used for the project:
 | DataSource | name of the datasource used |
 | Topic | the topic of the health indicators |
 | Question | the subtopic of the health indicators|
-
 | datavalueunit | cases per 100000 and other metrics |
 | datavaluetype  | prevalence, number, and other metrics |
 | datavalue  | adjusted metrics |
 | datavaluealt  | alternative metrics |
 | datavaluefootnotesymbol  | footnotes for data metrics |
-
 | datavaluefootnote  | description of data metrics |
 | stratificationcategory1  | race and gender |
 | stratification1  | further description of race and gender |
