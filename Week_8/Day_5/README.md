@@ -15,7 +15,7 @@ CDI is an example of collaboration among CDC and state health departments in bui
 
 ## Objective
 
-The objective is to explore the CDI dataset and interpret the Heart Failure trends. 
+The objective is to explore the CDI dataset and interpret the Heart Failure trends via a Linear Regression Machine Learning model to find the states with the most Heart Failure Deaths.
 
 ## Data
 
