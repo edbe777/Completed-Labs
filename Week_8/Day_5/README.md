@@ -68,6 +68,9 @@ Here are the columns which were used for the project:
 
 <img src="images/number of deaths 2017 boxplot.JPG" width="650">
 
+<img src="images/number of deaths by cause over year.JPG" width="650">
+
+<img src="number of deaths by causes.JPG" width="850">
 
 ## Python Libraries
 - [pandas](https://pandas.pydata.org/)
