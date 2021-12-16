@@ -52,8 +52,9 @@ Here are the columns which were used for the project:
 
 ## Findings
 
-<img src="images/all chronic diseases heatmap zoom.jpg" title="heatmap">
+<img src="images/all chronic diseases heatmap zoom.jpg" width="450" title="heatmap">
 
+<img src="images/cardio disease normalized.JPG" width="450" title="cardio normailzed">
 
 
 
