@@ -64,6 +64,9 @@ Here are the columns which were used for the project:
 
 <img src="images/top deaths 2013 to 2017.JPG" width="450">
 
+## Tableau Presentation
+- https://public.tableau.com/app/profile/eddie.beloiu/viz/FinalProject_16394980549120/CDCIntro
+
 
 ## Python Libraries
 - [pandas](https://pandas.pydata.org/)
